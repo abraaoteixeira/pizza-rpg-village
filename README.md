@@ -1,5 +1,3 @@
-# Pizza RPG Village
-
 <p align="center">
   <h1 align="center">Pizza RPG Village</h1>
   <h2 align="center"> PROGRAMAÇÃO I </h2>
